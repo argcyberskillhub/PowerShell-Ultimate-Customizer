@@ -75,7 +75,17 @@ application files and manually revert any PowerShell profile changes
 made by the tool.
 Before removing profile changes, inspect:
 
-<h2>First Run this command in powersehll</h2>
-```text
+## 🚀 Quick Start
+
+1. **Open PowerShell** on your computer.
+2. **Run the following command** to open your profile script in Notepad:
+
+```powershell
 notepad $PROFILE
 ```
+
+## 📝 Next Steps
+* If the file does not exist, Notepad will ask if you want to create a new one. Click **Yes**.
+* Paste your custom aliases, functions, or scripts into the file.
+* **Save** and close Notepad.
+* Restart PowerShell or run `. $PROFILE` to apply your changes.
