@@ -76,6 +76,6 @@ made by the tool.
 Before removing profile changes, inspect:
 
 <h2>First Run this command in powersehll</h2>
-```
+```text
 notepad $PROFILE
 ```
