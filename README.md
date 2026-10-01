@@ -28,7 +28,16 @@ Customize PowerShell with:
 - Custom PowerShell prompt
 
 ---
+## 📸 Screenshots
 
+### PowerShell
+![PowerShell](screenshots/powershell.png)
+
+### Fastfetch
+![Fastfetch](screenshots/fastfetch.png)
+
+### Desktop
+![Desktop](screenshots/desktop.png)
 ### 🚀 Fastfetch
 
 Display system information directly in PowerShell.
