@@ -45,7 +45,7 @@ Example:
 │ Shell    PowerShell                │
 │ Terminal Windows Terminal          │
 ╰────────────────────────────────────╯
-
+```
 🌈 Dynamic Window Visuals
 The project can also provide visual customization around
 application windows, such as:
@@ -75,6 +75,7 @@ application files and manually revert any PowerShell profile changes
 made by the tool.
 Before removing profile changes, inspect:
 
+<h2>First Run this command in powersehll</h2>
 ```
 notepad $PROFILE
 ```
